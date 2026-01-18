@@ -1,0 +1,8 @@
+ctransformers
+#specify the version you are using
+sentence-transformers
+#need an embedding model, this is a free embedding model, downloading from Huggingface 
+pinecone-client
+langchain
+flask
+#Flask is for the frontend
