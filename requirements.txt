@@ -6,3 +6,5 @@ pinecone-client
 langchain
 flask
 #Flask is for the frontend
+
+-e .
