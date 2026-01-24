@@ -6,5 +6,5 @@ pinecone-client
 langchain
 flask
 #Flask is for the frontend
-
+python-dotenv
 -e .
